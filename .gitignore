@@ -1,6 +1,14 @@
-.DS_Store
+# osx
+.DS_Store?
+Icon?
+._*
+.Spotlight-V100
+.Trashes
 
+# python
 *.py[co]
+
+# other
 *.log
 tmp/**/*
 tmp/*
